@@ -1,0 +1,63 @@
+.body {
+  height: 100vh;
+  background-color: rgb(220, 233, 233);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main {
+  height: 350px;
+  width: 258px;
+  background-color: rgb(247, 182, 17);
+}
+.headerName {
+  color: rgba(228, 15, 61, 0.911);
+  background-color: cornflowerblue;
+  width: 258px;
+  justify-content: center;
+  align-items: center;
+}
+.get_Element {
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+.setElement {
+  margin-left: 77px;
+}
+#getElement {
+  margin-left: 83px;
+  margin-top: 5px;
+}
+#take_input {
+  margin-left: 22px;
+}
+#afterSet {
+  height: 50px;
+  width: 100px;
+  background-color: rgb(59, 226, 231);
+  margin-left: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#set {
+  margin-left: 26px;
+  margin-top: 5px;
+}
+#go {
+  margin-left: 76px;
+  margin-top: 15px;
+}
+#going {
+  background-color: red;
+  height: 50px;
+  width: 100px;
+  margin-left: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#fianlGo {
+  margin-left: 31px;
+  margin-top: 5px;
+}
